@@ -3,7 +3,7 @@
 # Both 32 and 64 bit versions on Intel processors.
 #
 
-cmake_minimum_required (VERSION 2.8)
+cmake_minimum_required (VERSION 4.0)
 project(Nial)
 
 include_directories("${PROJECT_BINARY_DIR}")
